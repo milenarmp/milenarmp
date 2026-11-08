@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Milena Rodrigues — Senior Full Stack Engineer</title>
+  <desc id="desc">Lavender portfolio header with a purple striped orb. Thoughtful systems. Meaningful products.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".5"><stop stop-color="#fbfaff"/><stop offset="1" stop-color="#eae4ff"/></linearGradient>
+    <clipPath id="orb"><circle cx="1010" cy="171" r="115"/></clipPath>
+    <pattern id="lines" width="13" height="13" patternUnits="userSpaceOnUse" patternTransform="rotate(-28)"><path d="M0 0V13" stroke="#635bda" stroke-width="2"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="52" y="58" fill="#252344" font-size="27" font-weight="750" letter-spacing="-1">milena<tspan fill="#635bda">.</tspan></text>
+    <text x="52" y="137" fill="#252344" font-size="62" font-weight="700" letter-spacing="-2">Milena Rodrigues</text>
+    <text x="55" y="181" fill="#635bda" font-size="26" font-weight="600">Senior Full Stack Engineer</text>
+    <text x="55" y="229" fill="#625e79" font-size="20">Thoughtful systems. Meaningful products.</text>
+    <path d="M55 267H775" stroke="#d5cdef"/>
+    <text x="55" y="306" fill="#625e79" font-size="13" letter-spacing="2">SÃO PAULO, BRAZIL</text>
+    <text x="535" y="306" fill="#635bda" font-size="13" letter-spacing="2">PHP / NODE.JS / VUE.JS / AWS</text>
+  </g>
+  <circle cx="1027" cy="184" r="115" fill="#dcd3fc" opacity=".8"/>
+  <circle cx="1010" cy="171" r="115" fill="url(#lines)" stroke="#a594ed" stroke-width="1"/>
+  <g stroke="#a594ed" stroke-width="4" transform="translate(1107 282)"><path d="M-30 0H30M0-30V30M-21-21L21 21M-21 21L21-21"/></g>
+</svg>
